@@ -73,4 +73,16 @@ sudo python3 sniffer.py
 [ALERT] ⚠ Port scan detected from 192.168.1.101 on ports: {21, 22, 23, ...}
 [ALERT] 🚨 Flood attack detected from 192.168.1.105 - 500 packets in 5 seconds
 
+🧪 Testing Tools Used
+nmap -sS -p 1-100 127.0.0.1
 
+ping, hping3 to simulate flood or scan traffic
+
+Custom UDP/TCP packets using Scapy
+
+👨‍💻 Author
+Sahil Rokade
+Cybersecurity Intern, Ethical Hacking & VAPT
+📧 sahilrokade6400@gmail.com
+📞 +91 9321741190
+🌐 GitHub
