@@ -1,6 +1,6 @@
 # 🛡️ Network Packet Sniffer with Anomaly Detection & Alert System
 
-> 💼 Developed by **Sahil Rokade** as part of Evelate Labs Cybersecurity Internship  
+> 💼 Developed by **Sahil Rokade** as part of Elevate Labs Cybersecurity Internship  
 > 📅 June 2025 · 🔐 Kali Linux · 🐍 Python
 
 ---
