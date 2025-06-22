@@ -48,7 +48,14 @@ A real-time network monitoring tool that captures live packets, detects suspicio
 ---
 
 ## 🗂️ Project Structure
-
+📁 network-packet-sniffer--final-project/
+├── sniffer.py # Main logic for packet sniffing
+├── alert.py # Alert engine for flood & scan detection
+├── db.py # SQLite DB interface
+├── alerts.log # All generated alerts
+├── packets.db # SQLite DB file with traffic logs
+├── requirements.txt # Python package dependencies
+└── README.md # Project documentation
 
 ---
 
