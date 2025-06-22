@@ -87,6 +87,15 @@ ping, hping3 to simulate flood or scan traffic
 
 Custom UDP/TCP packets using Scapy
 
+
+## 📸 Sample Alerts
+
+**Port Scan Alert**
+![Port Scan](portscan_alert.png)
+
+**Flood Attack Alert**
+![Flood Attack](flood_attack_alert.png)
+
 👨‍💻 Author
 Sahil Rokade
 Cybersecurity Intern, Ethical Hacking & VAPT
